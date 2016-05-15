@@ -1,0 +1,30 @@
+/* title */
+.navbar-default .navbar-brand{
+    color: #100e10;
+}
+
+.nav .navbar-nav{
+	color: #100e10;
+}
+
+.content{
+	background: #a195a3;
+	padding: 10px;
+}
+
+.nav > li {
+	border-bottom: 2px solid #666;
+    text-align: center;
+}
+
+ul.nav{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+
+/* navbar */
+.navbar-default {
+    background-color: #a195a3;
+    border-color: #100e10;
+}
